@@ -1,0 +1,16 @@
+# Ignore system and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
+
+# Ignore Excel backup files
+*.bak
+
+# Ignore VS Code settings (if used)
+.vscode/
+
+# Ignore Python virtual environments (if you add code later)
+venv/
+__pycache__/
+*.pyc
